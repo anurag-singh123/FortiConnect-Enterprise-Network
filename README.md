@@ -117,7 +117,7 @@ Project-Directory/
 To set up this project:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/enterprise-network-project.git
+   git clone https://github.com/your-username/FortiConnect-Enterprise-Network.git
    ```
 2. Open the network simulation file (if using Cisco Packet Tracer, .pkt format) to view or simulate the network.
 3. Refer to the **Configurations** directory for initial configuration files and setup instructions.

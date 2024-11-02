@@ -129,8 +129,8 @@ To set up this project:
 
 ## **14. Contact Information**
 For questions, feedback, or suggestions:
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: (https://github.com/anurag-singh123)
+- **Email**: anurag.singh01018@gmail.com
 
 ## Screenshots
 ![Screenshot 2024-11-02 000217](https://github.com/user-attachments/assets/8709363a-6b1a-4e0d-82ee-2c51259f8075)
